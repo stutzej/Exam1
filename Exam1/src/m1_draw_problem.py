@@ -87,7 +87,7 @@ def test_draw_a_picture():
 #     Are they in the right location?
 #     Can you make it display the right color?
 ############################################################################
-# HINT:   render(0.5)
+# HINT:   render(0.5) 
 #         renders with a half-second pause after rendering.
 ############################################################################
 # -------------------------------------------------------------------------
